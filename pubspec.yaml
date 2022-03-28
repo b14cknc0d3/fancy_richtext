@@ -1,8 +1,17 @@
 name: fancy_richtext
 description: A new Flutter package project.
 version: 0.0.1
-homepage: https://github.com/b14cknc0d3.git
+homepage: https://github.com/b14cknc0d3/fancy_richtext
 
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+    
 environment:
   sdk: ">=2.16.0 <3.0.0"
   flutter: ">=1.17.0"
