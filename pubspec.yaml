@@ -1,5 +1,5 @@
 name: fancy_richtext
-description: Markdown like RichText features with color support
+description: Markdown like RichText features with color,bold,italic,heading,strikethrough,underline support
 version: 0.0.1
 homepage: https://github.com/b14cknc0d3/fancy_richtext
 
