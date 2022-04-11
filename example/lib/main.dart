@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
-      body: const FuncyRichText(
+      body: const FancyRichText(
         text: """
 **//black//1.** #//cyan//HEADING# \n
 2. ##//yellow//HEADING2## \n

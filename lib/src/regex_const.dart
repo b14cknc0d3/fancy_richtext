@@ -11,4 +11,5 @@ class RegexConstant {
   static RegExp headerFiveRegExp = RegExp(r'#####(.*?)#####');
   static RegExp headerSixRegExp = RegExp(r'######(.*?)######');
   static RegExp boldItalicRegExp = RegExp(r'\*\*\*(.*?)\*\*\*');
+  static RegExp linkRegExp = RegExp(r'\[\[(.*?)\w+,\]\]');
 }

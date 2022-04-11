@@ -13,8 +13,9 @@ and the Flutter guide for
 A widget that display text like markdown with own tags
 
 ## Features
-1. <img src="assets/ss.png" alt="My cool logo"/>
-<!-- !["DEMO"]('../assets/ss.png') -->
+<!-- markdownlint-disable MD033 -->
+1. <img src="assets/ss.png" alt="DEMO"/>
+<!-- markdownlint-enable MD033 -->
 2. If u want to use only text u can use it
 ## Getting started
 
@@ -62,8 +63,11 @@ return Scaffold(
 11. heading6 ######TEXT######
 12. strikeThrough ~TEXT~
 13. underLine _TEST_
+14. link [[google,https://www.google.com]]
 
+[[]]
 
+[[sxsdfr]]
 ```
 
 - [ ] TODO add escape tags

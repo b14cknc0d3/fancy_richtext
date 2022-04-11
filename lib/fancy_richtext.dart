@@ -1,9 +1,9 @@
 import 'package:fancy_richtext/src/get_text_span.dart';
 import 'package:flutter/material.dart';
 
-class FuncyRichText extends StatelessWidget {
+class FancyRichText extends StatelessWidget {
   final String text;
-  const FuncyRichText({Key? key, required this.text}) : super(key: key);
+  const FancyRichText({Key? key, required this.text}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
